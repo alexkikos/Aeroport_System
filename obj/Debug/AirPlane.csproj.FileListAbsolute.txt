@@ -1,0 +1,7 @@
+F:\Мои документы\c+++\ШАГ\C#\AirPlane\obj\Debug\AirPlane.csprojAssemblyReference.cache
+F:\Мои документы\c+++\ШАГ\C#\AirPlane\obj\Debug\AirPlane.csproj.CoreCompileInputs.cache
+F:\Мои документы\c+++\ШАГ\C#\AirPlane\bin\Debug\AirPlane.exe.config
+F:\Мои документы\c+++\ШАГ\C#\AirPlane\bin\Debug\AirPlane.exe
+F:\Мои документы\c+++\ШАГ\C#\AirPlane\bin\Debug\AirPlane.pdb
+F:\Мои документы\c+++\ШАГ\C#\AirPlane\obj\Debug\AirPlane.exe
+F:\Мои документы\c+++\ШАГ\C#\AirPlane\obj\Debug\AirPlane.pdb
